@@ -1,2 +1,2 @@
 # tianchi-ijcal
-天池数据竞赛IJCAL-18
+天池数据竞赛 IJCAL-18
